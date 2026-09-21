@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Campus Complaint & Maintenance Tracker",
+  "description": "An AI-powered campus complaint and facility maintenance management system with automated classification, duplicate detection, priority assessment, and department routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
